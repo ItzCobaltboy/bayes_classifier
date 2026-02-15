@@ -1,4 +1,18 @@
-# bayes-classifier
+<h1 align="center">Bayes Classifier</h1>
+
+<p align="center">
+  Bayesian classifiers for educational ML experiments.
+</p>
+
+<p align="center">
+  <a href="https://pypi.org/project/bayes-classifier/">
+    <img src="https://img.shields.io/pypi/v/bayes-classifier.svg">
+  </a>
+  <img src="https://img.shields.io/github/license/ItzCobaltboy/bayes_classifier">
+  <img src="https://img.shields.io/pypi/pyversions/bayes-classifier">
+</p>
+
+
 
 A lightweight collection of Bayes classifiers for tabular data.
 
